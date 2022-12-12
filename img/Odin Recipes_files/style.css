@@ -1,3 +1,24 @@
+.cheese {
+    height: 420px;
+    width: 400px;
+    text-align: center;
+}
+
+.pasta {
+    height: 420px;
+    width: 400px;
+    align-self: center;
+    align-content: center;
+}
+
+.chicken {
+    height: 420px;
+    width: 400px;
+    align-items: center;
+}
+
+
+
 #title,
 #chse,
 #psta,
@@ -49,9 +70,4 @@
 #psta {
     color: green;
     background-color: orange;
-}
-
-img {
-    height: 420px;
-    width: 400px;
 }
